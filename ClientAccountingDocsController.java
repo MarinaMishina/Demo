@@ -83,31 +83,7 @@ public class ClientAccountingDocsController implements Serializable {
     private static final String ID_SENDER_DIADOC = "201505260306237557139";
     private static final String VERS_PROG = "Diadoc 1.0";
     private static final String VERS_FORM = "5.01";
-    //пока не используем
-    private static final String INN_EDO_OPER = "6663003127";
-    private static final String ORG_NAME_EDO_OPER = "АО \"ПФ \"СКБ Контур\"";
-    //
-    private static final String KND = "1115131";
-    private static final String CIFRA_TELECOM = "Общество с ограниченной ответственностью \"Цифра-Телеком\"";
-    private static final String VIMPELCOM = "ПАО \"ВымпелКом\"";
-    private static final String DOC_FUNC = "СЧФ";
-    private static final String CURRENCY_CODE = "643";
-    private static final String CURRENCY_NAME = "Российский рубль";
-    private static final String CT_INN = "7702798640";
-    private static final String CT_KPP = "772701001";
-    private static final String CT_ADDR_REGION = "77";
-    private static final String CT_ADDR_INDEX = "117042";
-    private static final String CT_ADDR_ULICA = "ул. Чечёрский проезд";
-    private static final String CT_ADDR_DOM = "д. 24";
-    private static final String CT_ADDR_OFFICE = "пом/ком.оф I/6/41";
-    private static final String VIMPELCOM_INN = "7713076301";
-    private static final String VIMPELCOM_KPP = "997750001";
-    private static final String VIMPELCOM_ADDR_REGION = "77";
-    private static final String VIMPELCOM_ADDR_INDEX = "127083";
-    private static final String VIMPELCOM_ADDR_ULICA = "ул. Восьмого Марта";
-    private static final String VIMPELCOM_ADDR_DOM = "д. 10";
-    private static final String VIMPELCOM_ADDR_KORPUS = "стр. 14";
-
+    
     private static final String SERVICE_NAME = "Услуги телефонной связи";
     private static final String OKEI = "362";
     private static final String OKEI_NAME = "мес";
