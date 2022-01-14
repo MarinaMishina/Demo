@@ -4,6 +4,7 @@ import org.binatel.bill.controllers.util.DateUtil;
 import org.binatel.bill.controllers.util.JsfUtil;
 import org.binatel.bill.ejb.AccountingClientReportBeelineFacade;
 import org.binatel.bill.entities.AccountingClientReportBeeline;
+
 import org.primefaces.model.DefaultStreamedContent;
 import org.primefaces.model.StreamedContent;
 import javax.ejb.EJB;
