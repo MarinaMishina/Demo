@@ -17,6 +17,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+/* Генерация .csv - отчета для отправки на портал Билайн */
 
 @ManagedBean(name = "reportsController")
 @SessionScoped
