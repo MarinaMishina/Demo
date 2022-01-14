@@ -37,6 +37,7 @@ import javax.xml.transform.*;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
+/* Создание, загрузка, выгрузка документов в формате xml и pdf */
 
 @ManagedBean(name = "clientAccountingDocsController")
 @SessionScoped
