@@ -9,7 +9,7 @@ import java.util.Properties;
 public class EmailUtil {
 
     /**
-     * Utility method to send email
+     * Отправка e-mail 
      *
      * @param toEmail
      * @param subject
